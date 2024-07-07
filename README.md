@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @burhan8585
-- 👀 I’m interested in web desigin devolpment 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m burhan
+- 👀 I’m in web  devolpor
+- 🌱 learning experiencing upskilling
+- 💞️ open to collaborate 
 - 📫 How to reach me bkachwala538@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i love coding
 
 <!---
 burhan8585/burhan8585 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
