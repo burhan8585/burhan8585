@@ -1,5 +1,5 @@
 - 👋 Hi, I’m burhan
-- 👀 I’m in web  devolpor
+- 👀 I’m a web  devolpor
 - 🌱 learning experiencing upskilling
 - 💞️ open to collaborate 
 - 📫 How to reach me bkachwala538@gmail.com
